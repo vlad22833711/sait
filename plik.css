@@ -1,0 +1,44 @@
+table {
+    color:red;
+    border-radius: 7px;
+    border: 2px solid red;
+}
+
+[colspan="2"] {
+    color: orange;
+}
+
+.govno {
+    color:dodgerblue;
+}
+
+#l{
+    font-weight: bold;
+}
+
+html tr {
+    color: darkgreen
+}
+
+.tit>li{
+    color: crimson
+}
+.iu{
+    color: fuchsia
+}
+
+.lol{
+    font-size: 20px;
+}
+
+.lol.color1{
+    color:gray;
+}
+
+.lol.color1{
+    color:greenyellow;
+}
+
+.ko{
+    font-size: 20px;
+}
